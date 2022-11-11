@@ -1,3 +1,7 @@
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/readme-header.png" /></a></p>
+
+<br />
+
 **About me**
 
 - 👋 Hi, I’m Peng
